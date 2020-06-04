@@ -1,0 +1,109 @@
+{
+    "emojiPrefix": ":",
+    "emojis": {
+        "amadeus_kurisu": {
+            "filePath": "emojis/amadeus_kurisu.png",
+            "description": "A-mah-day-us"
+        },
+        "daru_cry": {
+            "filePath": "emojis/daru_cry.png",
+            "description": "Please humiliate me some more"
+        },
+        "daru_orz": {
+            "filePath": "emojis/daru_orz.png",
+            "description": "ORZ"
+        },
+        "faris_nyan": {
+            "filePath": "emojis/faris_nyan.png",
+            "description": "Faris nyan nyan"
+        },
+        "kurisu_frown": {
+            "filePath": "emojis/kurisu_frown.png",
+            "description": "Kurisutinaaaaaaa!"
+        },
+        "kurisu_channeler": {
+            "filePath": "emojis/kurisu_channeler.png",
+            "description": "Celeb 17"
+        },
+        "luka_bow": {
+            "filePath": "emojis/luka_bow.png",
+            "description": "Very lady-like but daga otoko da"
+        },
+        "luka_mop": {
+            "filePath": "emojis/luka_mop.png",
+            "description": "Daga otoko da"
+        },
+        "maho_bath": {
+            "filePath": "emojis/maho_bath.png",
+            "description": "No officer I swear she's legal"
+        },
+        "maho_dazed": {
+            "filePath": "emojis/maho_dazed.png",
+            "description": "So tired..."
+        },
+        "moeka_phone": {
+            "filePath": "emojis/moeka_phone.png",
+            "description": "I think she's trying to communicate"
+        },
+        "moeka_sad": {
+            "filePath": "emojis/moeka_sad.png",
+            "description": "When does she not look depressed?"
+        },
+        "ok_abe": {
+            "filePath": "emojis/ok_abe.png",
+            "description": "This is the choice of Steins;Gate!"
+        },
+        "okabe_break": {
+            "filePath": "emojis/okabe_break.png",
+            "description": "Some coffee before the next leap"
+        },
+        "oopa_happy": {
+            "filePath": "emojis/oopa_happy.png",
+            "description": "Metal oopa!"
+        },
+        "suzuha_sigh": {
+            "filePath": "emojis/suzuha_sigh.png",
+            "description": "My dad is such a perv"
+        },
+        "tuturu": {
+            "filePath": "emojis/tuturu.png",
+            "description": "**Tuturuu motherfucker**"
+        }
+    },
+    "commandPrefix": "~",
+    "commands": {
+        "help": {
+            "usage": "to see this list, baka",
+            "description": ""
+        },
+        "greetme": {
+            "usage": "if you want me to greet you when entering 'Anime Watching Team'",
+            "description": "Plays a Tuturu! whenever you enter 'Anime Watching Team'",
+            "role": {
+                "name": "tuturu",
+                "color": [148, 174, 192],
+                "permissions": []
+            },
+            "emojiID": "466107601965547520",
+            "confirmResponse": "Yeah I'll greet you...for a Dk. Pepper!",
+            "successResponse": "It's a pinky promise!",
+            "tooSlowResponse": "Too slow!",
+            "alreadyHasRoleResponse": "Don't I already greet you?"
+        },
+        "tuturu": {
+            "usage": "for when you need to greet someone",
+            "description": "Tuturu!",
+            "filePath": "sound_bites/tuturu.mp3"
+        },
+        "beechga": {
+            "usage": "for when someone discovers your secret lair",
+            "description": "Beeeeeeeeechga!",
+            "filePath": "sound_bites/beechga.mp3"
+        },
+        "sonuvabetch": {
+            "usage": "for when you need to impress someone",
+            "description": "I am mad scientist. Is so cool! Sonuvabetch.",
+            "filePath": "sound_bites/sonuvabetch.mp3"
+        }
+    }
+}
