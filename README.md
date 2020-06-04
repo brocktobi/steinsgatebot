@@ -5,4 +5,4 @@ Or maybe it's the choice of Steins Gate. Who knows?
 
 Type ~help for a list of commands and emojis.
 
-El Psy Kongroo.
+El Psy Kongroo. 
